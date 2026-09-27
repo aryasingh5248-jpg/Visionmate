@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+known_faces.pkl
+yolov8n.pt
+.venv/
+venv/
+*.log
